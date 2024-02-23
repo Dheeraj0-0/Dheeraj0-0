@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **frontend development**
 
-- 📫 How to reach me **dheerajparihardrj@gmail.com**
+- 📫 How to reach me **workwithdheeraj@duck.com**
 
 # <p align=center> ![GitHub Streak](https://streak-stats.demolab.com?user=Dheeraj0-0&theme=dark&hide_border=true)
 
