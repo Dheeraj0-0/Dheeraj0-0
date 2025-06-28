@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> </h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
+<h3 align="center">A passionate DevOps engineer
 
 - 🔭 I’m currently working on **web development project**
 
