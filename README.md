@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **web development project**
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **k8s**
 
 - 📫 How to reach me **workwithdheeraj@duck.com**
 <!--
