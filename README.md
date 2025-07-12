@@ -1,12 +1,14 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=150&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dheeeraj+Parihar)
+<p align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=150&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dheeeraj+Parihar)
 
 <h2 align="center">Cloud & DevOps Engineer </h2>
 
-<p align="center">
+
 Passionate about building scalable, secure, and efficient software solutions. I thrive on automating infrastructure and crafting robust applications.
 </p>
 
 🚀 What I'm Currently Up To:
+
 🔭 Web Development Project: Actively working on enhancing a web application, focusing on robust deployment pipelines and implementing advanced security measures. (Inspired by your "Secure E-Commerce Platform Deployment")
 
 🌱 Kubernetes (k8s): Deepening my knowledge and practical skills in Kubernetes for advanced container orchestration and management.
@@ -31,9 +33,3 @@ Monitoring & Security: Azure Monitor, CloudWatch, Splunk, cloud security best pr
 <img src="https://komarev.com/ghpvc/?username=Dheeraj0-0&color=268F77&label=Profile+Views" alt="Profile Views">
 </p>
 
-📧 Let's Connect:
-Email: workwithdheeraj@outlook.com
-
-LinkedIn: Your LinkedIn Profile <!-- IMPORTANT: Replace with your actual LinkedIn URL -->
-
-GitHub: Dheeraj0-0
