@@ -9,11 +9,11 @@
 - 🌱 I’m currently learning **k8s**
 
 - 📫 How to reach me **workwithdheeraj@duck.com**
-<!--
-# <p align=center> ![GitHub Streak](https://streak-stats.demolab.com?user=Dheeraj0-0&theme=dark&hide_border=true)
+  
+<p align=center> ![GitHub Streak](https://streak-stats.demolab.com?user=Dheeraj0-0&theme=dark&hide_border=true)
 
 
 <h3 align="center">
  
 ![](https://komarev.com/ghpvc/?username=Dheeraj0-0&color=268F77&label=Profile+Views) 
- </h3> -->
+ </h3> 
