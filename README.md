@@ -1,7 +1,4 @@
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D26%26duration%3D3000%26pause%3D150%26repeat%3Dfalse%26random%3Dfalse%26width%3D435%26lines%3DHey%2Bthere%2521%2B%25F0%259F%2591%258B%2BI%27m%2BDheeraj%2BParihar" alt="Typing SVG: Hey there! I'm Dheeraj Parihar">
-
-
 <h2 align="center">Cloud & DevOps Enthusiast | Full Stack Explorer</h2>
 
 <p align="center">
