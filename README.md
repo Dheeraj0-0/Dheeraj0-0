@@ -1,8 +1,6 @@
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D26%26duration%3D3000%26pause%3D150%26repeat%3Dfalse%26random%3Dfalse%26width%3D435%26lines%3DHi%2B%25F0%259F%2591%258B%252C%2BI%27m%2BDheeraj%2BParihar" alt="Typing SVG: Hi, I'm Dheeraj Parihar">
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=150&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dheeeraj+Parihar)
 
-<h2 align="center">Cloud & DevOps Engineer | Full Stack Developer</h2>
+<h2 align="center">Cloud & DevOps Engineer </h2>
 
 <p align="center">
 Passionate about building scalable, secure, and efficient software solutions. I thrive on automating infrastructure and crafting robust applications.
