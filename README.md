@@ -1,27 +1,14 @@
+- 🔭 I’m currently working on 
+  
+- 🌱 I’m currently learning **Active Directory & cloud security**
 
-<h2 align="center">Cloud & DevOps Enthusiast | Full Stack Explorer</h2>
+- 🤝 I’m looking for help with [ansible] & [automation-scripting]
 
-<p align="center">
-I'm all about building cool, secure, and super-efficient software. Think of me as someone who loves making tech work seamlessly and creatively! ✨
-</p>
+- 💬 Ask me about **Networking, Git and GitHub, intermediate devops**
 
-🚀 Chillin' with Code: What I'm Up To
-🔭 Crafting Web Experiences: Currently diving deep into a web development project, making sure it's not just functional but also a breeze to deploy and rock-solid secure. Think smooth pipelines and smart security! 🔒
+- 📫 How to reach me **workwithdheeraj@outlook.com**
 
-🌱 Kubernetes Adventures: Leveling up my game with Kubernetes (k8s) – getting hands-on with orchestrating containers like a pro. It's all about making things scalable and resilient. 🐳
 
-💡 Security Detective Work: Always on the lookout for clever ways to manage credentials and keep an eye on security events in real-time. Splunk and Azure Monitor are my trusty sidekicks here! 🕵️‍♂️
-
-🎒 My Digital Backpack: Skills & Tools
-Cloud & DevOps: Azure, a friendly nod to Terraform, Ansible, Docker, Kubernetes, and my CI/CD pals (Jenkins, Azure DevOps).
-
-Programming & Scripting: Fluent in Python and Bash, with a solid grasp of how things work under the hood (OOP, data structures, algorithms).
-
-Web & Application Development: Building full-stack wonders, keeping things organized with Git and GitHub.
-
-Database & Networking: Comfortable with SQL, NoSQL, and understanding the core internet magic like TCP/IP and load balancing.
-
-Monitoring & Security: Keeping an eye on things with Azure Monitor, CloudWatch, and Splunk, always prioritizing cloud security best practices.
 
 📈 GitHub Vibes:
 <p align="center">
